@@ -1,4 +1,4 @@
-**Finance Analyzer (INR)** 📊
+# Finance Analyzer (INR) 📊
 _A comprehensive web application for analyzing financial markets, including gold, forex, and cryptocurrencies, with real-time data and interactive visualizations._
 
 📖 Description
